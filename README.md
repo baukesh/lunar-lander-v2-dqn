@@ -146,9 +146,6 @@ python3 main.py --test_mode=TEST --agent_mode=DOUBLE --network_mode=DUELING
 tensorboard --logdir=logs
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Resources
 
 - [Human-Level Control through Deep Reinforcement Learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
