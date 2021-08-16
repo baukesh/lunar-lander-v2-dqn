@@ -5,8 +5,8 @@ import cv2
 from agent import Agent
 from constants import *
 
-#ENV = "LunarLander-v2"
-ENV = "BreakoutDeterministic-v4"
+ENV = "LunarLander-v2"
+#ENV = "BreakoutDeterministic-v4"
 #ENV = "BreakoutNoFrameskip-v4"
 
 def run(params):
